@@ -84,7 +84,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "grb/Test/")
+      (outputdirectory "grb/V1.1/")
     )
   )
 
