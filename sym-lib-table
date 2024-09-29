@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX9813HEKA+T")(type "KiCad")(uri "${KIPRJMOD}/MAX9813HEKA+T.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q16JVUXIQ_TR")(type "KiCad")(uri "${KIPRJMOD}/W25Q16JVUXIQ_TR/W25Q16JVUXIQ_TR.kicad_sym")(options "")(descr ""))
+  (lib (name "KH-TYPE-C-16P")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/KH-TYPE-C-16P.kicad_sym")(options "")(descr ""))
+  (lib (name "GMI9767P-46DB")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/GMI9767P-46DB.kicad_sym")(options "")(descr ""))
+)

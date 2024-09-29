@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "W25Q16JVUXIQ_TR")(type "KiCad")(uri "${KIPRJMOD}/W25Q16JVUXIQ_TR")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/LIB_10164359-00011LF/10164359-00011LF/KiCad")(options "")(descr ""))
+  (lib (name "CMC-6027-24T")(type "KiCad")(uri "${KIPRJMOD}/CMC-6027-24T.pretty")(options "")(descr ""))
+  (lib (name "MO093803-1")(type "KiCad")(uri "${KIPRJMOD}/MO093803-1.pretty")(options "")(descr ""))
+  (lib (name "OS102011MS2QS1")(type "KiCad")(uri "${KIPRJMOD}/OS102011MS2QS1.pretty")(options "")(descr ""))
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/footprint")(options "")(descr ""))
+)
